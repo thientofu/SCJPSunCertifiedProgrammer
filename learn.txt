@@ -1,0 +1,6 @@
+Class và Interfaces - từ đầu tiên nên là từ viết hoa
+method - từ đầu tiên nên viết thường
+variable - như methods
+constants - được tạo bởi đánh dấu variable static và final. nên viết hoa tất cả cách chữ cái với gạch chân dưới để ngăn cách
+Setter là method thay đổi giá trị của thuộc tính
+Getter là method truy xuất giá trị của thuộc tính
